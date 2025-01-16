@@ -33,10 +33,6 @@ Graphy v1 allows users to upload a PDF document, which is then processed to extr
 
 ## Demo
 
-[![Watch the video](https://img.youtube.com/vi/odtGLUPXqfs/hqdefault.jpg)](https://youtu.be/odtGLUPXqfs)
-
-
-*Click the image above to watch the demo video on YouTube.*
 
 ## Getting Started
 
@@ -122,7 +118,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 For questions or inquiries, please contact the developer:
 
-- **Email**: [aianytime07@gmail.com](mailto:aianytime07@gmail.com)
 
 ---
 
